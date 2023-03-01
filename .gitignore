@@ -65,3 +65,7 @@ fastlane/screenshots
 
 *.DS_Store
 IDEWorkspaceChecks.plist
+
+#XCFrameworks
+*.xcarchive
+*.xcframework
